@@ -1,2 +1,0 @@
-<html>
-HELLO WORD </html>
